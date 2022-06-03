@@ -1,0 +1,13 @@
+#Checkbox {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    margin-top: 2%;
+}
+
+
+#Checkbox > span {
+    margin-left: .4rem;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
